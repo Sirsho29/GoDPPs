@@ -7,3 +7,4 @@ Write a program that takes two integers and an operator (+, -, *, /) as input an
 **Objective:**
 - Implement a simple calculator.
 - Use switch statements for conditional logic.
+

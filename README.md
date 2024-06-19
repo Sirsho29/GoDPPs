@@ -25,22 +25,39 @@ The repository is organized into day-wise directories. Each directory contains:
 ```
 GoDPPs/
   ├── Day01/
-  │   ├── Problem1.md
-  │   ├── Problem2.md
-  │   ├── Problem3.md
-  │   ├── Solution1.go
-  │   ├── Solution2.go
-  │   └── Solution3.go
+  │   ├── Problem1/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem2/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem3/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem4/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   └── Problem5/
+  │       ├── problem.md
+  │       └── solution.go
   ├── Day02/
-  │   ├── Problem1.md
-  │   ├── Problem2.md
-  │   ├── Problem3.md
-  │   ├── Problem4.md
-  │   ├── Solution1.go
-  │   ├── Solution2.go
-  │   ├── Solution3.go
-  │   └── Solution4.go
+  │   ├── Problem1/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem2/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem3/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   ├── Problem4/
+  │   │   ├── problem.md
+  │   │   └── solution.go
+  │   └── Problem5/
+  │       ├── problem.md
+  │       └── solution.go
   └── ...
+
 ```
 
 ## Getting Started
