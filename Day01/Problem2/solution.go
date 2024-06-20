@@ -3,5 +3,8 @@ package problem2
 import "fmt"
 
 func Solution() {
-	fmt.Println("Solution 2")
+	const a = 10
+	const b = 20
+	c := a + b
+	fmt.Println("Sum is:", c)
 }

@@ -1,5 +1,7 @@
 package problem1
 
+import "fmt"
+
 func Solution() {
-	// Your solution here
+	fmt.Println("Hello, GoDPPs!")
 }
