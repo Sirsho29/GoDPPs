@@ -1,6 +1,10 @@
 package problem1
 
-func Solution() {
-    // Your solution here
-}
+import "fmt"
 
+func Solution() {
+	var name string
+	fmt.Print("Enter your name: ")
+	fmt.Scanln(&name)
+	fmt.Println("Hello, " + name + "!")
+}
